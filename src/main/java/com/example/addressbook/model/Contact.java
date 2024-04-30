@@ -17,6 +17,7 @@ public class Contact {
      * @param email The email of the contact
      * @param phone The phone number of the contact
      */
+
     public Contact(String firstName, String lastName, String email, String phone) {
         this.firstName = firstName;
         this.lastName = lastName;
